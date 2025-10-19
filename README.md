@@ -1,6 +1,8 @@
 # 🍎 Design System: Inspire by Apple
 _A consistência visual e a experiência do usuário elevadas, inspiradas nas diretrizes de design da Apple (iOS/macOS)._
 
+![Apple](https://github.com/eumatoliveira/Apple-Website-Design-System/blob/main/Screenshot_22.png)
+
 ## 🎯 Sobre o Projeto
 
 Este é o arquivo central do nosso Design System, construído no Figma para garantir a **consistência** e **escalabilidade** dos nossos produtos digitais.
