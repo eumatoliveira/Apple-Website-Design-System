@@ -2,7 +2,7 @@
 _A consistência visual e a experiência do usuário elevadas, inspiradas nas diretrizes de design da Apple (iOS/macOS)._
 
 
-[Apple](https://github.com/eumatoliveira/Apple-Website-Design-System/blob/main/Screenshot_22.png)
+![Apple](https://github.com/eumatoliveira/Apple-Website-Design-System/blob/main/Screenshot_22.png)
 
 ## 🎯 Sobre o Projeto
 
